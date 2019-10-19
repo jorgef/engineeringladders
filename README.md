@@ -8,7 +8,7 @@ The framework relies heavily in radar charts to show visually the different pers
 
 ![Template Chart](charts/template.png?raw=true "Template Chart")
 
-The chart above has 5 axis:
+The chart above has 5 axes:
 * **Technology**: knowledge of the tech stack and tools
 * **System**: level of ownership of the system(s)
 * **People**: relationship with the team(s)
