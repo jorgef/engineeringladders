@@ -6,7 +6,7 @@ Although the framework uses roles and levels that somehow standard in the US tec
 
 The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
 
-![Template Chart](charts/template.png?s=300 "Template Chart")
+![Template Chart](charts/template.png?v=4&s=200 "Template Chart")
 
 The chart above has 5 axes:
 * **Technology**: knowledge of the tech stack and tools
