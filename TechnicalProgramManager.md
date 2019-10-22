@@ -12,7 +12,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM4 - Technical Program Manager 4
 
-![Technical Program Manager 4](/charts/tpm-4.png)
+![Technical Program Manager 4](/charts/technicalprogrammanager-4.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -22,7 +22,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM5 - Technical Program Manager 5
 
-![Technical Program Manager 5](/charts/tpm-5.png)
+![Technical Program Manager 5](/charts/technicalprogrammanager-5.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -32,7 +32,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM6 - Technical Program Manager 6
 
-![Technical Program Manager 6](/charts/tpm-6.png)
+![Technical Program Manager 6](/charts/technicalprogrammanager-6.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -42,10 +42,17 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM7 - Technical Program Manager 7
 
-![Technical Program Manager 7](/charts/tpm-7.png)
+![Technical Program Manager 7](/charts/technicalprogrammanager-7.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
+
+# Other Pages
+
+* [**Introduction**](README.md)
+* [**Developer**](Developer.md)
+* [**Tech Lead**](TechLead.md)
+* [**Engineering Manager**](EngineeringManager.md)

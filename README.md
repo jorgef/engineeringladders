@@ -1,14 +1,3 @@
-- [Introduction](#introduction)
-- [Career Ladders](#career-ladders)
-- [Axes](#axes)
-- [Levels](#levels)
-  - [Technology](#technology)
-  - [System](#system)
-  - [People](#people)
-  - [Process](#process)
-  - [Influence](#influence)
-- [FAQs](#faqs)
-
 # Introduction
 
 This framework allows software engineering managers to have meaningful conversations with direct reports around the expectations of each position and how to plan for the next level in their career ladder.
@@ -26,7 +15,7 @@ The framework has 4 different ladders:
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
 * [**Tech Lead**](TechLead.md): role also known as dev lead, owns the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is reponsible for the consisten delivery, career growth and level of happiness of the team
+* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is reponsible for the consistent delivery, career growth and level of happiness of the team
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
