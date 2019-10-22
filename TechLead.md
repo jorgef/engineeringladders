@@ -49,3 +49,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
+
+# Other Pages
+
+* [**Introduction**](README.md)
+* [**Developer**](Developer.md)
+* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Engineering Manager**](EngineeringManager.md)
