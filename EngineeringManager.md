@@ -1,6 +1,6 @@
 # Engineering Manager
 
-Role also known as dev manager, is reponsible for the consistent delivery, career growth and level of happiness of the team.
+Role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
@@ -24,7 +24,7 @@ Role also known as dev manager, is reponsible for the consistent delivery, caree
 ![Engineering Manager 5](/charts/engineeringmanager-6.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirenments and defines its SLAs
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Team**: makes an impact on the whole team, not just on specific parts of it
@@ -34,7 +34,7 @@ Role also known as dev manager, is reponsible for the consistent delivery, caree
 ![Engineering Manager 5](/charts/engineeringmanager-7.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirenments and defines its SLAs
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams

@@ -1,6 +1,6 @@
 # Introduction
 
-This framework allows software engineering managers to have meaningful conversations with direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
 
 Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
 
@@ -13,9 +13,9 @@ The framework relies heavily in radar charts to show visually the different pers
 The framework has 4 different ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, owns the system and requires a unique balance between hands-on development, architecture knowledge and production support
+* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is reponsible for the consistent delivery, career growth and level of happiness of the team
+* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
@@ -40,7 +40,7 @@ The chart above has 5 axes:
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes its previous one(s). For example, someone that *evangelizes* technology also *specializes* and *adopts*.
+Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
 
 Keep reading to better understand each level.
 
@@ -59,14 +59,14 @@ Keep reading to better understand each level.
 1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirenments and defines its SLAs
+4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 
 ## People
 
 1. **Learns**: quickly learns from others and consistently steps up when it is required
 2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors other to accelerate their career-growth and encourages them to participate
+3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 5. **Manages**: manages the team members' career, expectations, performance and level of happiness
 
@@ -80,22 +80,29 @@ Keep reading to better understand each level.
 
 ## Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems or team pods
+1. **Subsystem**: makes an impact on one or more subsystems
 2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on the tech community
 
 # FAQs
 
-**What if some of the people don't fit all the points?**
+**What if some of the people don't meet all the points?**
 
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
-**When is a person ready to move to the next level**
+**When is a person ready to move to the next level?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing the promotion.
+Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
 
 **Why does the framework stop at level 7?**
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign inconsistent levels of responsibility to positions so high in their structure.
+Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+
+# Other Pages
+
+* [**Developer**](Developer.md)
+* [**Tech Lead**](TechLead.md)
+* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Engineering Manager**](EngineeringManager.md)

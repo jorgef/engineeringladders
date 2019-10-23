@@ -1,6 +1,6 @@
 # Tech Lead
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
@@ -25,7 +25,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ![Tech Lead 5](/charts/techlead-5.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirenments and defines its SLAs
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Team**: makes an impact on the whole team, not just on specific parts of it

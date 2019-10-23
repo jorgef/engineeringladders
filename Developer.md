@@ -48,7 +48,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Mentors**: mentors other to accelerate their career-growth and encourages them to participate
+* s to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
@@ -57,8 +57,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ![Developer 5](/charts/developer-5.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
-* ***Evolves**: evolves the architecture to support future requirenments and defines its SLAs
-* **Mentors**: mentors other to accelerate their career-growth and encourages them to participate
+* ***Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
@@ -68,7 +68,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors other to accelerate their career-growth and encourages them to participate
+* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
@@ -78,7 +78,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors other to accelerate their career-growth and encourages them to participate
+* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Community**: makes an impact on the tech community
 
