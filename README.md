@@ -31,7 +31,7 @@ The framework has 4 different ladders:
 
 # Axes
 
-The chart above has 5 axes:
+The chart shown above has the following 5 axes:
 * **Technology**: knowledge of the tech stack and tools
 * **System**: level of ownership of the system(s)
 * **People**: relationship with the team(s)
