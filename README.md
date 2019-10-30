@@ -92,9 +92,24 @@ Keep reading to better understand each level.
 
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
+**What if my organization career ladder is different?**
+
+Since the framework is open source, you have the right to adapt it to your organization. Hopefully the details layed out here helps you to create your own version. You can use the provided [template](charts/template.png) to define different scopes.
+
 **When is a person ready to move to the next level?**
 
 Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+
+**How do you collect evidence to support the discussion with my direct report?**
+
+Different teams collect evidence in different ways, but a good generall approach is a combination of:
+* 1:1 conversations
+* Feedback from peers and other teams
+* Self-evaluation
+
+**Could the framework provide more specific examples of behavior to support each level?**
+
+Specific examples of behavior usually require knowledge about the way that the team works, the architecture and the technology stack used. It is ecouraged to allow each team to come up with their own examples.
 
 **Why does the framework stop at level 7?**
 
