@@ -102,7 +102,7 @@ Companies usually expect a person to be performing at the next level *consistent
 
 **How do I collect evidence to support the discussion with my direct reports?**
 
-Different teams collect evidence in different ways, but a good general approach is a combination of:
+Different teams collect evidence in different ways. A recommended approach is to use a combination of:
 * 1:1 conversations
 * Feedback from peers and other teams
 * Self-evaluation
