@@ -48,7 +48,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* s to accelerate their career-growth and encourages them to participate
+* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
@@ -57,7 +57,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 ![Developer 5](/charts/developer-5.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
-* ***Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
