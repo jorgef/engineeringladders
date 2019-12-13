@@ -36,7 +36,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
@@ -45,8 +45,8 @@ Role responsible for coordinating and driving to completion initiatives that exp
 ![Technical Program Manager 7](/charts/technicalprogrammanager-7.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
 
