@@ -1,6 +1,6 @@
 # Tech Lead
 
-Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
+Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
