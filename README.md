@@ -37,10 +37,10 @@ If the team is small and/or the leader has a lot of experience as Enginneering M
 
 The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
 
-| [Tech Lead](TechLead.md) (System Perspective) | [Engineering Manager](EngineeringManager.md) (People Perspective)|
+| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
 | :--- | :--- |
 | Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
-| Architecture and Integration | Headcount Planning and Hiring |
+| Architecture and System Integration | Headcount Planning and Hiring |
 | Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
 | Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
 | Technical Reviews and Feedback | One on Ones |
