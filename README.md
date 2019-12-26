@@ -44,7 +44,7 @@ The following is a non-exhaustive list that exemplifies some of the different re
 | Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
 | Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
 | Technical Reviews and Feedback | One on Ones |
-| System Design Presentations​ | Participation in Tech Decisions |
+| System Design Presentations​ | Participation in Technical Decisions |
 | Technical Capacity Planning​ | Cascading Communications​ |
 | Production Issues Escalation​ | Team Building Activities and Culture​ |
 | System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
