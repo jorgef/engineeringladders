@@ -17,6 +17,8 @@ The framework has 4 different ladders:
 * [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
+If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
 | 1 | Junior | [D1](Developer.md#d1---developer-1) | | | |
@@ -28,37 +30,6 @@ The framework has 4 different ladders:
 | 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
-
-## Tech Lead and Engineering Manager
-
-It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
-
-If the team is small and/or the leader has a lot of experience as Enginneering Manager and Tech Lead, the same person might perform both roles. But as the system and team grow in size and complexity, there might be an opportunity to have different people for each role.
-
-The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
-
-| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
-| :--- | :--- |
-| Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
-| Architecture and System Integration | Headcount Planning and Hiring |
-| Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
-| Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
-| Code Reviews and Feedback | One on Ones |
-| System Design Presentations​ | Participation in Technical Decisions |
-| Technical Capacity Planning​ | Cascading Communications​ |
-| Production Issues Escalation​ | Team Building Activities and Culture​ |
-| System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
-| Platform Direction, Patterns and Practices | Team Productivity and Metrics​ |
-| Alignment with other Tech Leads​ | Alignment with other Dev Managers​ |
-| Hands-On Coding 50% to 30% of the Time | Hands-On Coding 20% to 0% of the Time |
-| System Roadmap (shared)​ | System Roadmap (shared)​ |
-| Development Process (shared)​ | Development Process (shared)​ |
-| Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
-| Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
-
-The last point on each role highlights the fact that the lists are not mutually exclussive,  and therefore many of the points from one side are also important on the other side too. An Engineering manager that can't understand the technical challenges that the team is facing won't be successful at the role, the same is true for a Tech Lead that doesn't understand the career paths of the engineers in the team. 
-
-Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overalp and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
 
 # Axes
 
@@ -148,9 +119,9 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 **Do you have any additional resources about the topic?**
 
-[Camille Forunier](https://twitter.com/skamille) does an excellent job at describing the expectations and challenges of many engineering positions in her book: [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do).
+* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Forunier does an excellent job at describing the expectations and challenges of many engineering positions.
 
-![The Manager's Path](https://covers.oreillystatic.com/images/0636920056843/cat.gif)
+* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
 
 # Other Pages
 
@@ -158,3 +129,4 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
