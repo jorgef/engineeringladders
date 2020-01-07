@@ -88,4 +88,4 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
-  * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
