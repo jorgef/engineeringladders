@@ -57,3 +57,4 @@ Role responsible for coordinating and driving to completion initiatives that exp
 * [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Managing Managers**](Managing-Managers.md)

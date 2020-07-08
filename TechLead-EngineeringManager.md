@@ -37,3 +37,4 @@ Having said that, although it is important for an Engineering Manager to be able
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
+* [**Managing Managers**](Managing-Managers.md)
