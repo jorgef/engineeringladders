@@ -130,3 +130,4 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Managing Managers**](Managing-Managers.md)
