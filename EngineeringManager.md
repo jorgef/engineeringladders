@@ -8,6 +8,7 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 | 6 | Senior | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
 | 7 | Senior | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
 
+If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
 
 ## EM5 - Engineering Manager 5
 
