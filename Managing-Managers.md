@@ -46,9 +46,9 @@ Although short-term vs long-term planning is sometimes seen as a "business vs te
 
 | Short-Term | Long-Term |
 | :--- | :--- |
+| Weekly Plan | Quarterly Plan |
 | Spike | Well Thought Out Design |
-| Solve Immediate Needs Quickly | Handle Pressure, Solve Properly |
-| Throw-away Cost | Future Investment |
+| Solve Quickly | Solve Properly |
 
 
 ## Oversight
