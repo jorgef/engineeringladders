@@ -40,7 +40,7 @@ Aligning the team's goals and the individual's goals is critical to ensure a sce
 
 ## Planning
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in the a technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
 
 ![Planning](/charts/dashboard-planning.png)
 
