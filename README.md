@@ -119,7 +119,7 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 **Do you have any additional resources about the topic?**
 
-* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Forunier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
+* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
 
 * [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
 
