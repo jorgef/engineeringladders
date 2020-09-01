@@ -27,7 +27,7 @@ The following is a non-exhaustive list that exemplifies some of the different re
 
 The last point on each role highlights the fact that the lists are not mutually exclussive,  and therefore many of the points from one side are also important on the other side too. An Engineering Manager that can't understand the technical challenges that the team is facing won't be successful at the role, the same is true for a Tech Lead that doesn't understand the career paths of the engineers in the team. 
 
-Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overalp and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
+Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overlap and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
 
 
 # Other Pages
