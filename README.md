@@ -33,60 +33,60 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 # Axes
 
-The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+위에서 보여지는 차트에 속한 5가지의 축:
+* **Technology**: 기술 스택 및 도구에 대한 지식 
+* **System**: 시스템의 소유권 수준
+* **People**: 팀과의 관계
+* **Process**: 개발 프로세스에 대한 참여 수준
+* **Influence**: 역할의 영향 범위
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+**influence** 축은 다른 모든 축에 직교하여 적용되기 때문에 *다른 차원* 으로 볼 수 있습니다.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+각각의 축은 5가지의 다른 성과 단계가 있습니다. 모든 레벨은 이전의 내용들을 포함하고 있다는 것은 중요한 부분입니다. 예를 들어, 기술을 *전파(evangelizes)* 하는 사람은 기술을 *전문화(specializes)* 하고 *도입(adopts)* 하는 것 역시 합니다.
 
-Keep reading to better understand each level.
+각 레벨을 잘 이해하기 위해 계속 읽어주세요.
 
 # Levels
 
 ## Technology
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+1. **Adopts**: 팀이 정의한 기술과 도구를 적극적으로 배우고 적용합니다
+2. **Specializes**: 한가지 이상의 기술을 잘 알고 있으며 새로운 기술을 주도적으로 학습합니다
+3. **Evangelizes**: 연구 조사, 개념 증명(POC)을 만들고, 새로운 기술을 팀에 소개합니다
+4. **Masters**: 시스템의 전체 기술 스택에 대해 매우 깊은 지식을 가지고 있습니다
+5. **Creates**: 내부 혹은 외부의 팀이 널리 사용할 신기술을 디자인 하고 만듭니다
 
 ## System
 
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+1. **Enhances**: 시스템의 개선 및 확장을 위해 새로운 기능을 개발하고 버그를 수정합니다
+2. **Designs**: 중형에서 대형 사이즈의 기능을 기술 부채를 제거하면서 디자인하고 구현합니다
+3. **Owns**: 프로덕션의 운영 및 모니터링에 대한 책임을 가지며 SLAs 를 알고 있습니다 
+4. **Evolves**:미래의 요구사항을 지원할 수 있도록 설계를 발전시키며 SLAs 를 정의합니다
+5. **Leads**: 시스템의 기술적 우수성을 주도하고 시스템 중단을 최소화하기 위한 계획을 수립합니다
 
 ## People
 
-1. **Learns**: quickly learns from others and consistently steps up when it is required
-2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+1. **Learns**: 다른 사람들로부터 빠르게 학습하고 그것들을 필요로 하는 업무들을 지속적으로 수행해 나갑니다
+2. **Supports**: 다른 팀원들을 적극적으로 지원하고 성공할 수 있도록 돕습니다
+3. **Mentors**: 다른 사람들을 멘토링하여 경력 성장을 가속화하고 참여를 독려합니다
+4. **Coordinates**: 효과적인 피드백을 제공하고 토론을 주도합니다
+5. **Manages**: 팀원들의 커리어, 기대 수준, 성과, 행복 수준를 관리합니다
 
 ## Process
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-3. **Challenges**: challenges the team processes, looking for ways to improve them
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+1. **Follows**: 팀 프로세스를 따르고 일관적으로 제품에 기능을 제공합니다
+2. **Enforces**: 팀 프로세스를 수행하면서 모든 사람들이 프로세스에 대한 장점과 단점을 이해하는지를 확인합니다
+3. **Challenges**: 팀 프로세스를 개선할 수 있는 방법을 찾고 시도해봅니다
+4. **Adjusts**: 피드백을 듣고 팀 프로세스를 조정합니다. 그리고 그러한 변화를 통해 팀을 가이드합니다
+5. **Defines**: 팀의 성숙도에 맞는 올바른 프로세스를 정의하고, 민첩성과 규율의 균형을 맞춥니다
 
 ## Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+1. **Subsystem**: 하나 이상의 서브 시스템에 영향을 끼칩니다
+2. **Team**: 특정 부분만이 아니라 팀전체에 영향을 끼칩니다
+3. **Multiple Teams**: 당신의 팀 뿐만 아니라 다른 팀에 영향을 끼칩니다
+4. **Company**: 전체 기술 조직에 영향을 끼칩니다
+5. **Community**: 기술 커뮤니티에 영향을 끼칩니다
 
 # FAQs
 
