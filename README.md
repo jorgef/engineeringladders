@@ -33,18 +33,18 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 # Axes
 
-The chart shown above has the following 5 axes:
+위에서 보여지는 차트에 속한 5가지의 축:
 * **Technology**: 기술 스택 및 도구에 대한 지식 
 * **System**: 시스템의 소유권 수준
 * **People**: 팀과의 관계
 * **Process**: 개발 프로세스에 대한 참여 수준
 * **Influence**: 역할의 영향 범위
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+**influence** 축은 다른 모든 축에 직교하여 적용되기 때문에 *다른 차원* 으로 볼 수 있습니다.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+각각의 축은 5가지의 다른 성과 단계가 있습니다. 모든 레벨은 이전의 내용들을 포함하고 있다는 것은 중요한 부분입니다. 예를 들어, 기술을 *전파(evangelizes)* 하는 사람은 기술을 *전문화(specializes)* 하고 *도입(adopts)* 하는 것 역시 합니다.
 
-Keep reading to better understand each level.
+각 레벨을 잘 이해하기 위해 계속 읽어주세요.
 
 # Levels
 
