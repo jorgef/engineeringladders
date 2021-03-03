@@ -1,23 +1,23 @@
 # Introduction
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+엔지니어링 래더 프레임워크는 소프트웨어 엔지니어 매니저가 각각의 직책에 대한 기대치와 커리어 래더를 통해 자신의 직원, 동료들과 다음 단계를 계획하는 방법에 대해 의미있는 대화를 나눌 수 있도록 돕습니다.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+엔지니어링 래더는 미국의 기술 산업에서 사용되는 역할과 레벨을 기준으로 사용하고 있지만, 회사별로 조금씩의 차이는 존재할 수 있습니다. 따라서 해당 내용들을 기본 베이스라인으로 생각하고 각자의 상황과 조건에 맞추어 적용하길 바랍니다.
 
-The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
+엔지니어링 래더는 주어진 역할에 대한 다양한 관점과 기대치를 시각적으로 보여주기 위해 아래의 레이더 차트에 의존합니다:
 
 ![Template Chart](charts/template.png)
 
 # Career Ladders
 
-The framework has 4 different ladders:
+프레임워크에는 서로 다른 4개의 래더가 있습니다:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+* [**Developer**](Developer.md): 높은 수준의 기술적 전문성을 필요로 합니다.
+* [**Tech Lead**](TechLead.md): 시스템의 소유자이며, 실무와 아키텍쳐 지식 및 제품(Production) 지원간의 고유한 균형을 요구합니다.
+* [**Technical Program Manager**](TechnicalProgramManager.md): 여러 팀을 확장하는 계획들을 조정하고 추진하는 역할을 담당합니다.
+* [**Engineering Manager**](EngineeringManager.md): 팀의 일관된 배포, 경력 성장 및 행복 수준을 담당합니다.
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+만약 [Tech Lead](TechLead.md)와 [Engineering Manager](EngineeringManager.md)의 차이점에 대해서 혼란스러우시다면, [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) 에서 비교한 내용을 참조해 주세요.
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
@@ -29,7 +29,7 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 | 6 | Senior | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
 | 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
-(click on position name for more details)
+(각 포지션의 이름을 클릭하면 자세한 내용을 확인 할 수 있습니다.)
 
 # Axes
 
@@ -90,38 +90,38 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 # FAQs
 
-**What if some of the people don't meet all the points?**
+**만약 일부사람들이 모든 포인트를 충족하지 못하는 경우엔 어떻게 될까요?**
 
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
+그러한 상황은 매우 정상적인 상황이며, 사람들은 일반적으로 일부 영역에는 강하고, 일부 영역에서는 약합니다. 프레임워크는 승진을 위한 체크리스트로 사용되어서는 안되며, 대신 의미있는 경력 대화를 나누기 위한 지침으로써 사용되어야 합니다.
 
-**What if my organization's career ladder is different?**
+**제가 속한 조직 내의 커리어 래더가 위에서 언급된 내용과 다른 경우에는 어떻게 하나요?**
 
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
+프레임워크는 오픈소스이기 때문에, 조직에 따라 조정될 수 있습니다. [chart template](charts/template.png)을 사용해 자신의 레벨을 정의해 보세요.
 
-**When is a person ready to move to the next level?**
+**다음 단계로 넘어갈 준비가 된 때는 언제입니까?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+회사는 일반적으로 한 사람의 승진을 공식화하기 전에 *몇 달 동안 지속적으로* 다음 레벨의 역할을 수행하기를 기대합니다.
 
-**How do I collect evidence to support the discussion with my direct reports?**
+**부하 직원과의 토론을 뒷받침하는 증거를 수집하려면 어떻게 해야 합니까?**
 
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
-* 1:1 conversations
-* Feedback from peers and other teams
-* Self-evaluation
+각각의 팀들은 각각의 방법으로 증거를 수집합니다. 권장되는 접근 방식은 다음 조합을 사용하는 것입니다:
+* 1:1 대화
+* 동료 및 다른 팀으로 부터의 피드백
+* 자체 평가 (자가 진단)
 
-**Could the framework provide more specific examples of behavior to support each level?**
+**프레임워크가 각 레벨을 지원하기 위한 행동 예시들을 제공해 줄 수 있나요?**
 
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
+구체적인 행동에 대한 예시는 팀의 업무 방식, 시스템 아키텍처와 기술 스택에 대한 지식을 필요로 합니다. 각 팀이 그들만의 예시를 정의할 수 있도록 하는 것을 권장합니다.
 
-**Why does the framework stop at level 7?**
+**프레임워크 각 단계의 레벨이 7이 끝인 이유는 무엇인가요?**
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+8 이상의 레벨은 회사마다 크게 다릅니다. 다양한 규모의 조직은 그 조직 구조에서 높은 위치에 있을 수록 다양한 수준의 범위를 할당하는 경향이 있습니다.
 
-**Do you have any additional resources about the topic?**
+**해당 주제에 대한 추가적인 자료가 있나요?**
 
-* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
+* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier는 많은 엔지니어링 직책에 대한 기대치와 과제에 대해 잘 설명하고 있습니다. 또한, 그녀는 챕터9에서 커리어 래더에 대한 좋은 조언들에 대해 다룹니다.
 
-* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
+* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote는 직무 책임을 정의하는 방법과 성과 (결과 및 행동)를 평가하는 방법을 간단한 용어로 설명합니다
 
 # Other Pages
 
