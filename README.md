@@ -14,7 +14,7 @@
 
 * [**Developer**](Developer.md): 높은 수준의 기술적 전문성을 필요로 합니다.
 * [**Tech Lead**](TechLead.md): 시스템의 소유자이며, 실무와 아키텍쳐 지식 및 제품 지원([Production Support](https://www.jobhero.com/job-description/examples/production/support-engineer)) 간의 고유한 균형을 요구합니다.
-* [**Technical Program Manager**](TechnicalProgramManager.md): 여러 팀을 확장하는 계획들을 조정하고 추진하는 역할을 담당합니다.
+* [**Technical Program Manager**](TechnicalProgramManager.md): 여러 팀이 참여하는 과제를 조정하고 추진하는 역할을 담당합니다.
 * [**Engineering Manager**](EngineeringManager.md): 팀의 일관된 배포, 경력 성장 및 행복 수준을 담당합니다.
 
 만약 [Tech Lead](TechLead.md)와 [Engineering Manager](EngineeringManager.md)의 차이점에 대해서 혼란스러우시다면, [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) 에서 비교한 내용을 참조해 주세요.
