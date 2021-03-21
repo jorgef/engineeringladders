@@ -2,86 +2,85 @@
 
 ## Introduction
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
-The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
+당신이 상위 단계의 관리자가 되면, 당신에게 보고하는 누군가가 새로운 관리자가 될 가능성이 있습니다. 관리자의 행동은 팀에 큰 영향을 끼치기 때문에 기대 수준도 다르게 설정해야 합니다.
 
 ![Dashboard](/charts/dashboard.png)
 
-How do you assess the managing skills of other managers?
-Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
-In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
+어떻게 다른 관리자의 관리 기술을 평가해야 할까요?
+관리자는 항상 상충되는 상황에 직면하게 됩니다. 그래서 그들의 업무에 상당 부분은 그 사이에서 균형을 유지하는 것입니다.
+올바른 기대 수준을 설정하고 관리가 잘 이루어지고 있는지 측정 하기 위해, 다음의 것들이 얼마나 균형을 이루고 있는지 평가하는 것이 중요합니다. 
 
 
 ## Delivery
 
-Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
+관리자는 항상 비지니스로부터 빠르게 가치를 전달해야 한다는 압박에 직면하는 한편, 팀으로부터는 높은 품질의 결과물을 전달해야 한다는 압박 역시 느끼게 됩니다.
 
 ![Delivery](/charts/dashboard-delivery.png)
 
-| Business Impact | Technical Excellence |
+| 비지니스 영향도 | 기술적 탁월함 |
 | :--- | :--- |
-| Speed | Quality |
-| Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+| 속도 | 품질 |
+| 고객 피드백 | 코드 유지보수성 |
+| 기회 비용 | 기술 부채 비용 |
 
 
 ## Goals
 
-Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
+팀원이 경력을 발전시키면서 팀이 조직에 가치를 제공하는 시나리오를 보장하기 위해 팀의 목표와 개인의 목표를 일치시키는 것이 중요합니다. 관리자는 양쪽(팀과 개인) 모두 이득을 얻을 수 있는 윈-윈 시나리오를 만들기 위해 노력해야 합니다.
 
 ![Goals](/charts/dashboard-goals.png)
 
-| Team | Individuals |
+| 팀 | 개인 |
 | :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
-| Group Performance | Individual Performance |
+| 비지니스 요구 | 경력 중심 |
+| 팀의 기대 | 개인의 흥미 |
+| 조직의 효율 | 개인의 효율 |
 
 
 ## Planning
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+"단기계획 vs 장기계획" 은 종종 "비지니스 vs 기술"([Delivery](#delivery) 참고)의 논의처럼 느껴지지만 항상 맞지는 않습니다. 많은 상황에서 관리자는 간단한 비지니스(혹은 기술) 해결책 과 장기적인 해결책 사이에서의 균형을 잡아야 합니다. 버그를 일단 빠르게 수정할까요? 아니면 최선의 기술 해결 방법에 투자해야 할까요? 빠르게 실험해보고 버릴까요? 아니면 잘 설계된 기능을 만드는데 투자를 해야할까요?
 
 ![Planning](/charts/dashboard-planning.png)
 
-| Short-Term | Long-Term |
+| 단기 | 장기 |
 | :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+| 주간 계획 | 분기 계획 |
+| 임시 방편 | 잘 고안된 디자인 |
+| 빠른 해결 | 올바른 해결 |
 
 
 ## Oversight
 
-Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
+관리자는 팀에 대한 통제력을 잃지 않으면서 어떻게 효율적으로 위임할지에 대한 균형을 맞추는데 어려움을 겪습니다. 세부적인 사항에 간섭하지 않으면서 관심을 유지하는 것은 관리자에게 가장 어려운 일 중 하나입니다(특히 관리자의 관리자). 관리자는 진행 상황을 파악하면서 팀이 의사결정을 하기 위해 권한을 부여하는 것이 중요합니다.
 
 ![Oversight](/charts/dashboard-oversight.png)
 
-| Control | Delegation |
+| 통제 | 위임 |
 | :--- | :--- |
-| Micromanaging | Empowerment |
-| Connected to Details | Big Picture |
-| Auditing | Trust |
+| 세부 관리 | 권한 부여 |
+| 세부 사항 | 전체적인 상황 |
+| 감독 | 신뢰 |
 
 ## Relationships
 
-Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
+대부분의 관리자는 부하 직원과 상사와의 관계를 형성하는데에는 뛰어나지만, 다른 조직과의 관계에 대해서는 과소평가하는 경향이 있습니다. 다른 팀과의 관계에 소홀하게 되면 여러 팀과 협업하는데 있어 위험성이 추가되고 팀의 영향력에 대한 가시성이 감소합니다.
 
 ![Relationships](/charts/dashboard-relationships.png)
 
-| Vertical (Managing Down / Up) | Horizontal (Managing Across) |
+| 수직 (상하 관리) | 수평 (종단 관리) |
 | :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+| 상사 | 이해관계자 |
+| 직속부하 | 동료 / 다른 팀 |
+| 직속부하의 팀원 | 사용자 |
 
 ## Conclusion
 
-Assessing managers require a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
+관리자를 평가하는 것은 약간 다른 관점이 필요하며, 관리자의 행동은 팀에 더 큰 영향을 미치므로 균형을 유지하는 일을 담당합니다.
 
-Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
+관리자는 여러 시간에 걸쳐 유지가능한 방법으로 각각의 영역(전달, 목표, 계획, 감독)에 대한 균형을 맞춰야 합니다. 팀원들의 근속연수, 기업 문화, 비지니스 상황은 화살표가 어느 한쪽으로 기우는데 영향을 끼치기 떄문에 모든 영역을 동일한 방식으로 균형을 유지해야 하는 것은 아닙니다. 녹색 영역은 하나의 값이 아니라 범위 이긴 하지만 어느 한쪽으로 너무 치우치지 않도록 하는 것이 중요합니다.
 
-In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
+요약하자면 각각의 관리자가 모든 영역에서 어떻게 성과를 내고 있는지 이해하는 것은 그들의 성과를 평가하는데 좋은 방법입니다. 그러므로 의미있는 경력을 쌓기 위한 대화를 나눌 수 있는 좋은 기회입니다.
 
 # Other Pages
 
