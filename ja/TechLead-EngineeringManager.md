@@ -1,40 +1,39 @@
-# Tech Lead vs Engineering Manager
+# テックリードとエンジニアリングマネージャーの違い
 
-It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
+テックリードとエンジニアリングマネージャーの役割が混在している企業は非常に多いです。両者の役割には重複する部分もありますが、その焦点は異なります。テックリードは*システム*に責任を持ち、エンジニアリングマネージャーは*人*に責任持っています。
 
-If the team is small and/or the leader has a lot of experience as Engineering Manager and Tech Lead, the same person might perform both roles. But as the system and team grow in size and complexity, there might be an opportunity to have different people for each role.
+チームの規模が小さい場合や、リーダーがエンジニアリングマネージャーとテックリードの両方を経験している場合は、同じ人が両方の役割を果たすこともあります。しかし、システムやチームの規模が大きくなり、複雑になってくると、それぞれの役割を別の人が担当する必要が出てくるかもしれません
 
-The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
+以下は、各役割の責任の違いを例示した非網羅的なリストです。
 
-| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
+| [テックリード](TechLead.md) (システム) | [エンジニアリングマネージャー](EngineeringManager.md) (人)|
 | :--- | :--- |
-| Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
-| Architecture and System Integration | Headcount Planning and Hiring |
-| Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
-| Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
-| Code Reviews and Feedback | One on Ones |
-| System Design Presentations​ | Participation in Technical Decisions |
-| Technical Capacity Planning​ | Cascading Communications​ |
-| Production Issues Escalation​ | Team Building Activities and Culture​ |
-| System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
-| Platform Direction, Patterns and Practices | Team Productivity and Metrics​ |
-| Alignment with other Tech Leads​ | Alignment with other Dev Managers​ |
-| Hands-On Coding 30% to 70% of the Time | Hands-On Coding 0% to 30% of the Time |
-| System Roadmap (shared)​ | System Roadmap (shared)​ |
-| Development Process (shared)​ | Development Process (shared)​ |
-| Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
-| Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
+| 卓越した技術と革新 | キャリアプランニング、昇進、コーチング |
+| アーキテクチャとシステム統合 | 人員計画と採用 |
+| 技術的メンタリング、技術の取り入れ、調整 | チームプランニングとデリバリー  |
+| テクニカルスパイクとエクスペリメント(リスクと不確実性を排除するための調査と実験) | 目標、パフォーマンス、フィードバック |
+| コードレビューとフィードバック | 1 on 1 |
+| システムデザインの提案 | 技術的意思決定への参加 |
+| 技術的キャパシティプランニング | カスケード・コミュニケーション(シニアマネージャーからの情報をマネージャーからメンバーに伝える。メンバーからのエスカレーションをマネージャーがハブとなってシニアマネージャに伝える活動) |
+| プロダクトの問題のエスカレーション | チームビルディング活動と文化 |
+| システムSLA、システム評価指標、システムモニタリング | チームの保護と幸福度向上 |
+| プラットフォームの方向性、パターンと実践 | チームの生産性と評価基準 |
+| 他の技術リーダーとの連携 | 他の開発マネージャーとの連携 |
+| 30%～70%の時間でハンズオンコーディングを行う | 0～30%の時間でハンズオンコーディング |
+| システムロードマップ作成（共有) |  システムロードマップ作成（共有)  |
+| 開発プロセス実行、改善(共有) | 開発プロセス、実行、改善(共有)  |
+| チームの透明性確保と認識の共有(共有) | チームの透明性確保と認識の共有(共有) |
+| 必要に応じてエンジニアリング・マネージャーとして行動する能力 | 必要に応じてテックリードとして行動する能力 |
 
-The last point on each role highlights the fact that the lists are not mutually exclusive, and therefore many of the points from one side are also important on the other side too. An Engineering Manager that can't understand the technical challenges that the team is facing won't be successful at the role, the same is true for a Tech Lead that doesn't understand the career paths of the engineers in the team. 
+最後の項目が示すことは、リストは相互に排他的なものではなく、一方の役割の多くは、他方の役割でも必要ということです。チームが直面している技術的な課題を理解できないエンジニアリングマネージャーは、その役割を成功させることができないでしょうし、チーム内のエンジニアのキャリアパスを理解していないテックリードも同様です。
 
-Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overlap and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
-
+とはいえ、エンジニアリングマネージャーがテックリードとしての役割を果たすこと、またその逆を行うことも重要ですし、集中し優れた能力を発揮することも重要です。明らかに重複しており、コラボレーションする必要はありますが、衝突や誤解を避けるためには、どちらのポジションも誰が何を担当しているかをよく知っておく必要があります。
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**イントロダクション**](README.md)
+* [**開発者**](Developer.md)
+* [**テックリード**](TechLead.md)
+* [**テクニカルプログラムマネージャー**](TechnicalProgramManager.md)
+* [**エンジニアリングマネージャー**](EngineeringManager.md)
+* [**マネージャーをマネージすること**](Managing-Managers.md)
