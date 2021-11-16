@@ -1,93 +1,88 @@
-# Managing Managers
+# マネージャーをマネージすること
 
-## Introduction
+## イントロダクション
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
-The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
+マネージャーとしての地位が高くなると、他のマネージャーを管掌することになるでしょう。マネージャーの行動はチームに大きな影響を与えるため、期待値の設定を違ったものにする必要があります。
 
-![Dashboard](/charts/dashboard.png)
+![Dashboard](../charts/dashboard.png)
 
-How do you assess the managing skills of other managers?
-Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
-In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
+マネージャーのマネジメントスキルをどのように評価していますか？
+マネージャーは常に相反する力に直面しており、その仕事の大部分は物事のバランスをとることにあります。適切な期待値を設定し、マネージャーの成功を測るためには、後述する観点において、どれだけバランスが取れているかを評価することが重要となります。
 
+## デリバリー
 
-## Delivery
+マネージャーは、ビジネスからは価値を素早く提供するよう求められ、チームからは高品質なソリューションを提供するようプレッシャーをかけられます。
 
-Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
+![Delivery](../charts/dashboard-delivery.png)
 
-![Delivery](/charts/dashboard-delivery.png)
-
-| Business Impact | Technical Excellence |
+| ビジネスへの影響 | 技術的卓越性 |
 | :--- | :--- |
-| Speed | Quality |
-| Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+| スピード | 品質 |
+| 顧客からのフィードバック | コードのメンテナビリティ |
+| 機会費用 | 技術的負債 |
 
 
-## Goals
+## 目標を作ること
 
-Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
+チームが組織に価値をもたらし、メンバーがキャリアを向上させるというシナリオを実現するためには、チームの目標と個人の目標を一致させることが重要です。マネージャーは、チームと個人の双方が見返りを得られるようなWin-Winのシナリオを作るようにしなければなりません。
 
-![Goals](/charts/dashboard-goals.png)
+![Goals](../charts/dashboard-goals.png)
 
-| Team | Individuals |
+| チーム	| 個人 |
 | :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
-| Group Performance | Individual Performance |
+| ビジネスニーズ | キャリア・成長 |
+| チームの期待 | 個人の興味 |
+| グループでのパフォーマンス | 個人のパフォーマンス  |
 
 
-## Planning
+## 計画すること
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+短期計画と長期計画は、「ビジネス vs 技術」のような議論と捉えられることがありますが（[デリバリー](#デリバリー) 参照）、必ずしもそうではありません。多くの場合、マネージャーは、迅速なビジネス（または技術）ソリューションと長期的なソリューションの間のトレードオフのバランスを取る必要があります。このバグをすぐに修正するのか、それとも適切な技術的ソリューションに投資するのか。すぐに捨てられるスパイクを作るのか、それともきちんと設計された機能に投資するのか。
 
-![Planning](/charts/dashboard-planning.png)
-
-| Short-Term | Long-Term |
+| 短期計画 | 長期計画 |
 | :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+| 週次のプラン | 四半期のプラン  |
+| スパイク | よく工夫された設計 |
+| 素早く解決 | 適切に解決 |
 
 
-## Oversight
+## 監督すること
 
-Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
+マネージャーは通常、チームへのコントロールを失わずに効果的に委任する方法のバランスをとるのに苦労します。干渉せずに細部にまで気を配ることは、マネージャーにとって（特にマネージャーのマネージャーにとって）最も難しい仕事の一つであることは間違いない。マネージャーは、状況を把握しながらチームに意思決定の権限を与えることが重要です。
 
-![Oversight](/charts/dashboard-oversight.png)
+![Oversight](../charts/dashboard-oversight.png)
 
-| Control | Delegation |
+| コントロール | 委譲 |
 | :--- | :--- |
-| Micromanaging | Empowerment |
-| Connected to Details | Big Picture |
-| Auditing | Trust |
+| マイクロマネジメント | エンパワメント |
+| 詳細 | 全体像 |
+| 監査 | 信頼 |
 
-## Relationships
+## 関係を構築すること
 
-Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
+ほとんどのマネジャーは、直属の部下との関係構築（マネージングダウン）や上司との関係構築（マネージングアップ）には優れていますが、組織の他の部分との関係構築（マネージングアクロス）を過小評価する傾向があります。横の関係を重視していないと、チーム横断的な取り組みにリスクが生じ、チームの影響力に対するマネージャーの可視性が低下します。
 
-![Relationships](/charts/dashboard-relationships.png)
+![Relationships](../charts/dashboard-relationships.png)
 
-| Vertical (Managing Down / Up) | Horizontal (Managing Across) |
+| 垂直 (マネージングダウン / アップ)	| 水平 (マネージングアクロス) |
 | :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+| 管理者 | 利害関係者 |
+| 直属の部下 | 同僚 / 他チームの仲間 |
+| 部下の部下 | ユーザー |
 
-## Conclusion
+## 結論
 
-Assessing managers require a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
+マネージャーを評価するには、少し異なる視点が必要です。彼らの行動はチームに大きな影響を与えるため、バランスを保つ責任があります。
 
-Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
+マネージャーは、デリバリー、目標、計画、監督、人間関係などの各分野のバランスを、長期的に持続可能な方法でとる必要があります。すべての領域で同じようにバランスをとる必要はないかもしれません。チームの熟練度、企業文化、ビジネスの背景によって、矢印がどちらかに寄っていくかもしれません。とはいえ、極端な値に近づきすぎないようにすることが重要です。
 
-In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
+まとめると、各マネージャーがすべての領域でどのようなパフォーマンスをしているかを理解することは、彼らのパフォーマンスを評価する良い方法であり、したがって、彼らと意味のあるキャリアの会話をする良い機会となります。
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**イントロダクション**](README.md)
+* [**開発者**](Developer.md)
+* [**テックリード**](TechLead.md)
+* [**テクニカルプログラムマネージャー**](TechnicalProgramManager.md)
+* [**エンジニアリングマネージャー**](EngineeringManager.md)
+* [**テックリードとエンジニアリングマネージャーの違い**](TechLead-EngineeringManager.md)
