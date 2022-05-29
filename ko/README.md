@@ -1,133 +1,134 @@
-# Introduction
+# 소개
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+이 프레임워크는 소프트웨어 엔지니어링 매니저들이 직속 부하와 함께 각자 포지션별 기대치에 관해 커리어 사다리에서의 다음 단계를 위해 어떻게 준비할 수 있을지에 대해 의미있는 대화를 나눌 수 있도록 도와줍니다.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+프레임워크에서 미국 기술산업 기준으로 거의 보편적인 역할과 레벨을 사용하고 있지만, 모든 기업은 다릅니다. 제공된 정보는 기초 자료로 삼고 여러분의 필요에 따라 자유롭게 조절하세요.
 
-The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
+이 프레임워크는 주어진 포지션에 대해 다양한 관점과 기대치를 시각화하기 위해 레이더 차트에 많이 의존합니다:
 
-![Template Chart](charts/template.png)
+![차트 템플릿](../charts/template.png)
 
-# Career Ladders
+# 커리어 사다리
 
-The framework has 4 different ladders:
+이 프레임워크에는 네 개의 다른 사다리가 있습니다:
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+* [**개발자**](Developer.md): 프로그래머 또는 엔지니어로 알려진 역할로, 깊은 수준의 기술적 경험을 필요로 함
+* [**기술 리드**](TechLead.md): 개발 리드로도 불리는 역할로, 시스템의 소유자이며 직접적인 개발, 설계적 지식 및 프로덕션 지원에 있어서 독특한 균형을 필요로 함
+* [**기술 프로그램 매니저**](TechnicalProgramManager.md): 여러 팀에 걸쳐 업무 조율 및 완성 주도권을 향한 독려의 책임을 짐
+* [**엔지니어링 매니저**](EngineeringManager.md): 개발 관리자로도 불리는 역할로, 꾸준한 배포, 커리어 성장 및 팀의 행복도의 책임을 짐
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
+[기술 리드](TechLead.md) 와 [엔지니어링 매니저](EngineeringManager.md)간의 차이가 혼동된다면, [기술 리드 vs 엔지니어링 매니저](TechLead-EngineeringManager.md) 페이지를 참고하여 상세한 비교를 확인하세요.
+
+| 레벨 | 숙련도 | [개발자](Developer.md) | [기술 리드](TechLead.md) | [기술 프로그램 매니저](TechnicalProgramManager.md) | [엔지니어링 매니저](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | Junior | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | Junior | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | Junior | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Senior | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | Senior | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | 주니어 | [D1](Developer.md#d1---developer-1) | | | |
+| 2 | 주니어 | [D2](Developer.md#d2---developer-2) | | | |
+| 3 | 주니어 | [D3](Developer.md#d3---developer-3) | | | |
+| 4 | 시니어 | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
+| 5 | 시니어 | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | 시니어 | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | 시니어 | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
-(click on position name for more details)
+(포지션명을 클릭하여 세부 내용을 확인하세요)
 
-# Axes
+# 축
 
-The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+차트에는 다음의 5개 축이 있습니다:
+* **기술(Technology)**: 기술 스택과 도구에 대한 지식
+* **시스템(System)**: 시스템들에 대한 소유권
+* **사람(People)**: 팀들과의 관계 유지
+* **프로세스(Process)**: 개발 프로세스에 대한 관여도
+* **영향력(Influence)**: 포지션의 영향력 범위
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+**영향력** 축은 수직적이며 다른 모든 축에 영향을 주므로 *다른 차원* 으로 볼 수도 있습니다.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+각 축은 다섯 개의 성취도를 가집니다. 성취도 단계는 이전 모든 단계를 포함한다는 점을 강조하지 않을 수 없습니다. 예를 들어, 기술을 *전도*하는 사람이라면, *특화* 및 *적응*되어 있어야 합니다.
 
-Keep reading to better understand each level.
+계속 읽으면서 각 단계에 대해 더 자세히 이해하시기 바랍니다.
 
-# Levels
+# 단계
 
-## Technology
+## 기술
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+1. **적응**: 적극적으로 학습하며 팀이 지정한 기술과 툴을 받아들인다
+2. **특화**: 하나 또는 그 이상의 기술을 확실하게 책임지는 사람이며 새로운 것을 학습하는 주도권을 가진다
+3. **전도**: 연구하고, POC(개념 증명)를 제작하며 팀에 새로운 기술을 소개한다
+4. **숙달**: 시스템의 모든 기술 스택에 관해 매우 깊은 지식을 가지고 있다
+5. **창조**: 내부 또는 외부 팀에게 널리 사용되는 새로운 기술을 설계하고 창조한다
 
-## System
+## 시스템
 
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+1. **개선**: 시스템을 개선하기 위한 새로운 기능과 버그 수정을 성공적으로 제공한다
+2. **설계**: 시스템의 기술 부채를 줄여나가면서 중대형 기능을 설계 및 구현한다
+3. **소유**: 프로덕션 운영 방식에 대한 소유권을 가지며 시스템을 모니터링하며 SLA(서비스 수준 동의)를 인지하고 있다
+4. **진화**: 미래 요구조건을 지원하기 위해 구조를 진화시키며 SLA를 규정한다
+5. **인도**: 시스템의 기술적 완성도를 이끌며 서비스 중단 사태에 대한 계획을 수립한다
 
-## People
+## 사람
 
-1. **Learns**: quickly learns from others and consistently steps up when it is required
-2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+1. **학습**: 빠르게 다른 이들에게서 배우며 필요할 경우 꾸준히 나선다
+2. **지원**: 다른 팀 멤버들을 적극적으로 지원하며 그들이 성공할 수 있도록 돕는다
+3. **상담**: 다른이들에게 상담을 제공하여 커리어 성장을 가속하고 참여를 독려한다
+4. **조정**: 팀 멤버들간의 조정에 나서며 효과적인 피드백을 제공하며 의견을 조율한다
+5. **관리**: 팀 멤버들의 커리어, 기대치, 생산성과 행복도를 관리한다
 
-## Process
+## 프로세스
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
-3. **Challenges**: challenges the team processes, looking for ways to improve them
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+1. **추종**: 팀 프로세스를 따르며, 프로덕션으로의 꾸준한 기능의 흐름을 제공한다
+2. **집행**: 팀 프로세스를 집행하며, 모든 이가 장점과 단점을 이해하도록 한다
+3. **도전**: 팀 프로세스를 개선할 방법을 찾기 위해 도전한다
+4. **변경**: 피드백을 듣고 팀의 변화를 지도하면서 팀 프로세스를 변경한다
+5. **정의**: 신속성과 절제의 균형을 맞추면서 팀의 숙련도에 따라 가장 적절한 프로세스를 정의한다
 
-## Influence
+## 영향력
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+1. **하위 시스템**: 하나 또는 그 이상의 하위 시스템에 영향을 준다
+2. **팀**: 특정 일부가 아닌 전체 팀에 영향을 미친다
+3. **다수의 팀**: 본인의 팀 뿐만 아니라 다른 팀에도 영향을 미친다
+4. **회사**: 전체 기술 집단에게 영향을 미친다
+5. **커뮤니티**: 기술 커뮤니티에 영향을 미친다
 
 # FAQs
 
-**What if some of the people don't meet all the points?**
+**어떤 사람이 모든 포인트를 만족하지 못하는 경우엔 어떻게 하나요?**
 
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
+이는 굉장히 흔한 일이며, 사람들은 보통 특정 분야에 강하고 다른 분야에 약하곤 합니다. 이 프레임워크가 누군가를 승진시키는 체크리스트가 되어서는 안되고 의미있는 커리어 대화를 나누기 위한 이정표가 되어야 합니다.
 
-**What if my organization's career ladder is different?**
+**우리 집단의 커리어 사다리가 다르다면 어떡하죠?**
 
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
+이 프레임워크는 오픈소스이므로, 여러분의 집단에 맞게 각색해서 사용할 기회가 있습니다. [차트 템플릿](../charts/template.png)을 사용하여 스스로의 단계를 설정해보세요.
 
-**When is a person ready to move to the next level?**
+**언제 누군가가 다음 단계로 진행할 준비가 되었는지 알 수 있나요?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+회사에서는 보통 승진을 공식화하기 이전에 그 사람이 다음 단계의 성과를 *수개월간 꾸준히* 발휘할 것을 기대합니다.
 
-**How do I collect evidence to support the discussion with my direct reports?**
+**내 직속 부하와의 대화를 위한 근거들을 어떻게 수집하나요?**
 
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
-* 1:1 conversations
-* Feedback from peers and other teams
-* Self-evaluation
+각 팀별로 다른 방식으로 근거를 수집합니다. 권장되는 접근법은 다음의 조합을 사용하는 것입니다:
+* 1:1 대화
+* 동료 및 다른 팀의 피드백
+* 자체 평가
 
-**Could the framework provide more specific examples of behavior to support each level?**
+**프레임워크에서 각 단계별 지원 방법에 대해 더 구체적인 예시를 제공해줄 수는 없을까요?**
 
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
+구체적인 행동 예시를 제공하려면 팀이 일하는 방식에 대한 지식, 시스템 구조와 기술 스택에 대해 알아야 합니다. 각 팀 별로 스스로의 예시를 설정하는 것을 권장드립니다.
 
-**Why does the framework stop at level 7?**
+**왜 프레임워크에 7단계까지밖에 없나요?**
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+8단계와 그 이상은 회사마다 너무 크게 다릅니다. 다른 크기의 집단에서는 구조적으로 높은 위치에 다양한 범위의 포지션을 배치하기도 합니다.
 
-**Do you have any additional resources about the topic?**
+**이 주제로 다른 좋은 글들이 있나요?**
 
-* [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
+* [The Manager's Path(개발 7년차, 매니저 1일차)](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier 는 수많은 엔지니어링 포지션별 기대사항과 도전점을 잘 설명해 주었습니다. 또한, 9단원에서 커리어 사다리를 작성하는 데에 있어서 좋은 조언을 제공합니다.
 
-* [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
+* [How to Be Good at Performance Appraisals(업무 성과 평가 잘 하는 방법)](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote 는 직업별 책임과 (결과 및 행동에 대한)성과 측정 방법을 간단한 표현을 통해 설명하고 있습니다.
 
-# Other Pages
+# 다른 페이지들
 
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**개발자**](Developer.md)
+* [**기술 리드**](TechLead.md)
+* [**기술 프로그램 매니저**](TechnicalProgramManager.md)
+* [**엔지니어링 매니저**](EngineeringManager.md)
+* [**기술 리드 vs 엔지니어링 매니저**](TechLead-EngineeringManager.md)
+* [**매니저 관리하기**](Managing-Managers.md)

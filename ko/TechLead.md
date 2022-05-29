@@ -12,7 +12,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL4 - Tech Lead 4
 
-![Tech Lead 4](/charts/techlead-4.png)
+![Tech Lead 4](../charts/techlead-4.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -22,7 +22,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL5 - Tech Lead 5
 
-![Tech Lead 5](/charts/techlead-5.png)
+![Tech Lead 5](../charts/techlead-5.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -32,7 +32,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL6 - Tech Lead 6
 
-![Tech Lead 6](/charts/techlead-6.png)
+![Tech Lead 6](../charts/techlead-6.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -42,7 +42,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL7 - Tech Lead 7
 
-![Tech Lead 7](/charts/techlead-7.png)
+![Tech Lead 7](../charts/techlead-7.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages

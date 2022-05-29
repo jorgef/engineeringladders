@@ -5,7 +5,7 @@
 When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
-![Dashboard](/charts/dashboard.png)
+![Dashboard](../charts/dashboard.png)
 
 How do you assess the managing skills of other managers?
 Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
@@ -16,7 +16,7 @@ In order to set the right expectations and measure the manager's success, it is 
 
 Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
 
-![Delivery](/charts/dashboard-delivery.png)
+![Delivery](../charts/dashboard-delivery.png)
 
 | Business Impact | Technical Excellence |
 | :--- | :--- |
@@ -29,7 +29,7 @@ Managers constantly face push from the Business to deliver value quickly while f
 
 Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
 
-![Goals](/charts/dashboard-goals.png)
+![Goals](../charts/dashboard-goals.png)
 
 | Team | Individuals |
 | :--- | :--- |
@@ -42,7 +42,7 @@ Aligning the team's goals and the individual's goals is critical to ensure a sce
 
 Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
 
-![Planning](/charts/dashboard-planning.png)
+![Planning](../charts/dashboard-planning.png)
 
 | Short-Term | Long-Term |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Although short-term vs long-term planning is sometimes seen as a "business vs te
 
 Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
 
-![Oversight](/charts/dashboard-oversight.png)
+![Oversight](../charts/dashboard-oversight.png)
 
 | Control | Delegation |
 | :--- | :--- |
@@ -67,7 +67,7 @@ Managers usually have a hard time balancing how to delegate effectively without 
 
 Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
 
-![Relationships](/charts/dashboard-relationships.png)
+![Relationships](../charts/dashboard-relationships.png)
 
 | Vertical (Managing Down / Up) | Horizontal (Managing Across) |
 | :--- | :--- |

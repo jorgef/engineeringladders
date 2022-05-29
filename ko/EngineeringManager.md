@@ -12,7 +12,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 
 ## EM5 - Engineering Manager 5
 
-![Engineering Manager 5](/charts/engineeringmanager-5.png)
+![Engineering Manager 5](../charts/engineeringmanager-5.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -22,7 +22,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 
 ## EM6 - Engineering Manager 6
 
-![Engineering Manager 5](/charts/engineeringmanager-6.png)
+![Engineering Manager 5](../charts/engineeringmanager-6.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -32,7 +32,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 
 ## EM7 - Engineering Manager 7
 
-![Engineering Manager 5](/charts/engineeringmanager-7.png)
+![Engineering Manager 5](../charts/engineeringmanager-7.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs

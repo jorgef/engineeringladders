@@ -12,7 +12,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM4 - Technical Program Manager 4
 
-![Technical Program Manager 4](/charts/technicalprogrammanager-4.png)
+![Technical Program Manager 4](../charts/technicalprogrammanager-4.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -22,7 +22,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM5 - Technical Program Manager 5
 
-![Technical Program Manager 5](/charts/technicalprogrammanager-5.png)
+![Technical Program Manager 5](../charts/technicalprogrammanager-5.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -32,7 +32,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM6 - Technical Program Manager 6
 
-![Technical Program Manager 6](/charts/technicalprogrammanager-6.png)
+![Technical Program Manager 6](../charts/technicalprogrammanager-6.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -42,7 +42,7 @@ Role responsible for coordinating and driving to completion initiatives that exp
 
 ## TPM7 - Technical Program Manager 7
 
-![Technical Program Manager 7](/charts/technicalprogrammanager-7.png)
+![Technical Program Manager 7](../charts/technicalprogrammanager-7.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
