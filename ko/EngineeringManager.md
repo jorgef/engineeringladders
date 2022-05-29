@@ -4,9 +4,9 @@
 
 | 단계 | 숙련도 |                         포지션                          |
 | :---: | :-------: | :-------------------------------------------------------: |
-|   5   |  시니어   | [EM5 - 엔지니어링 매니저 5](#em5---engineering-manager-5) |
-|   6   |  시니어   | [EM6 - 엔지니어링 매니저 6](#em6---engineering-manager-6) |
-|   7   |  시니어   | [EM7 - 엔지니어링 매니저 7](#em7---engineering-manager-7) |
+|   5   |  시니어   | [EM5 - 엔지니어링 매니저 5](#em5---엔지니어링-매니저-5) |
+|   6   |  시니어   | [EM6 - 엔지니어링 매니저 6](#em6---엔지니어링-매니저-6) |
+|   7   |  시니어   | [EM7 - 엔지니어링 매니저 7](#em7---엔지니어링-매니저-7) |
 
 If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
 

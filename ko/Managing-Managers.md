@@ -1,87 +1,87 @@
-# Managing Managers
+# 매니저 관리하기
 
-## Introduction
+## 도입
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
-The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
+매니저 사다리를 올라가다 보면, 직속 담당자에 다른 매니저가 포함되게 마련입니다.
+매니저의 행동은 그들의 팀에 더 큰 영향을 가지므로 기대치를 다르게 설정해야 합니다.
 
-![Dashboard](../charts/dashboard.png)
+![대시보드](../charts/dashboard.png)
 
-How do you assess the managing skills of other managers?
-Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
-In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
+어떻게 다른 매니저의 매니징 기술을 평가할까요?
+매니저는 언제나 상충하는 압력들을 마주해야 하며, 균형을 유지하는 것이 그들의 업무 중 큰 부분을 차지합니다.
+적절한 기대치를 설정하고 매니저의 성공을 측정하기 위해서는 다음 분야들에서 얼마나 균형을 유지하고 있는지 알아보는 것이 중요합니다:
 
 
-## Delivery
+## 인도
 
-Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
+매니저는 사업에서의 빠른 가치 인도 요구와 팀 내에서의 수준 높은 해결법 인도를 원하는 압력을 마주해야 합니다.
 
-![Delivery](../charts/dashboard-delivery.png)
+![인도](../charts/dashboard-delivery.png)
 
-| Business Impact | Technical Excellence |
+| 사업 영향도 | 기술적 완성도 |
 | :--- | :--- |
-| Speed | Quality |
-| Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
+| 속도 | 퀄리티 |
+| 소비자 피드백 | 코드 유지보수 용이성 |
+| 기회 비용 | 기술 부채 비용 |
 
 
-## Goals
+## 목표
 
-Aligning the team's goals and the individual's goals is critical to ensure a scenario where the team delivers value to the organization while its members make progress in their careers. The manager should try to create a win-win scenario where both sides (team and individual) get something in return.
+팀과 개인의 목표를 정렬하는 것은 팀이 집단에 가치를 인도하면서 그 구성원들이 커리어의 발전을 만들어내는 시나리오를 만들어내는 데 있어 매우 중요합니다. 매니저는 양 측 (팀과 개인)에게 모두 도움이 되는 Win-Win 시나리오를 만들기 위해 노력해야 합니다.
 
-![Goals](../charts/dashboard-goals.png)
+![목표](../charts/dashboard-goals.png)
 
-| Team | Individuals |
+| 팀 | 개인 |
 | :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
-| Group Performance | Individual Performance |
+| 사업적 필요 | 커리어 집중 |
+| 팀 기대치 | 개인 관심사 |
+| 그룹 성과 | 개인 성과 |
 
 
-## Planning
+## 계획
 
-Although short-term vs long-term planning is sometimes seen as a "business vs tech" type of discussion (see [Delivery](#delivery)), this is not always true. In many cases, the manager needs to balance the trade-offs between a quick business (or technical) solution and a long-term one. Do we fix this bug quickly or invest in a proper technical solution? Do we create a quick throw-away spike or we invest in a well-designed feature?
+비록 단기 대 장기 계획이 종종 "사업 대 기술"과 같은 토론으로 비춰지곤 하지만([인도](#인도)를 보세요), 항상 그렇지는 않습니다. 많은 경우 관리자는 신속한 사업 (또는 기술적) 해법과 장기적인 것 사이에서 균형을 찾아야 합니다. 이 버그를 신속하게 고칠까요, 아니면 제대로 된 기술적 해법을 위해 투자할까요? 신속하게 버려질 Spike 를 만들어낼까요, 아니면 잘 설계된 기능에 투자할까요?
 
-![Planning](../charts/dashboard-planning.png)
+![계획](../charts/dashboard-planning.png)
 
-| Short-Term | Long-Term |
+| 단기 | 장기 |
 | :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
+| 주간 계획 | 분기 계획 |
+| 스파이크(Spike) | 잘 설계된 기획 |
+| 신속한 처리 | 제대로 된 처리 |
 
 
-## Oversight
+## 감독
 
-Managers usually have a hard time balancing how to delegate effectively without losing the control over their teams. Staying connected to the details without interfering is certainly one the most difficult tasks for a manager (especially for managers of managers). It is important for managers to empower the team to make decisions while being on top of what is going on.
+매니저는 팀에 대한 통제를 잃지 않으면서도 효과적으로 위임하는 적정 수준을 찾는데 어려움을 겪습니다. 방해 요소 없이 세부 사항들을 꿰뚫고 있기는 매니저에게 가장 어려운 일이라고 할 수 있습니다(특히 매니저의 매니저인 경우에는). 매니저들은 벌어지는 일들을 휘하에 두면서도 팀에게 결정할 수 있도록 힘을 실어줘야 합니다.
 
-![Oversight](../charts/dashboard-oversight.png)
+![감독](../charts/dashboard-oversight.png)
 
-| Control | Delegation |
+| 통제 | 위임 |
 | :--- | :--- |
-| Micromanaging | Empowerment |
-| Connected to Details | Big Picture |
-| Auditing | Trust |
+| 미세 통제 | 권한 부여 |
+| 세부사항 파악 | 큰 그림 파악 |
+| 검열 | 신뢰 |
 
-## Relationships
+## 관계
 
-Most managers will excel at building relationships with their direct reports (managing down) and with their supervisor (managing up), but they tend to undervalue their relationships with the rest of the organization (managing across). Lack of focus on horizontal relationships adds risk to cross-team initiatives and reduces the manager's visibility of the team's impact.
+대부분의 매니저들이 그들의 직속 부하(하방)와 상사(상방)와의 관계 유지는 잘 하겠지만, 집단 외 다른 사람들과의 관계의 가치를 덜 중요하게 생각하는 경향이 있습니다. 수평적 관계에 대해 집중하지 못하는 경우 여러 팀간의 발언권에는 리스크를 증가시키고 팀의 영향력을 알아볼 수 있는 매니저의 시야를 좁게 만듭니다.
 
-![Relationships](../charts/dashboard-relationships.png)
+![관계](../charts/dashboard-relationships.png)
 
-| Vertical (Managing Down / Up) | Horizontal (Managing Across) |
+| 수직 (위/아래 관리) | 수평 (넓은 시야) |
 | :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+| 관리자들 | 이해당사자 |
+| 직속 부하 | 동료 / 다른 팀 |
+| 간접 보고자 | 이용자 |
 
-## Conclusion
+## 결론
 
-Assessing managers require a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
+매니저를 평가하는 데에는 다소 다른 관점이 필요하며, 그들의 행동은 각자의 팀에 더 큰 영향을 미치므로 모든 것의 균형을 유지할 책임을 가집니다.
 
-Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
+매니저는 각 분야간의 균형을 맞춰야 하며 -인도, 목표, 계획, 감독 및 관계- 이는 장기간 유지될 수 있는 방식이어야 합니다. 모든 영역이 똑같은 방식으로 균형이 맞춰질 필요는 없습니다; 팀의 숙련도, 회사의 문화, 사업적 문맥이 화살표를 한쪽으로 몰 수도 있고, 녹색 영역은 말 그대로 범위이지 하나의 값이 아닙니다. 그렇지만, 어느 한 쪽 극단에 너무 가까이 접근하지 않도록 노력하는 것이 중요합니다.
 
-In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
+요약하면, 각 매니저가 각 영역에서 내는 성과를 이해하는 것이 그들의 전체 성과를 평가하는 좋은 방법이며 따라서 그들과 유의미한 커리어 대화를 나누는 데 좋은 기회가 될 것입니다.
 
 # 다른 페이지
 
