@@ -1,34 +1,33 @@
-# Tech Lead vs Engineering Manager
+# 기술 리드 vs 엔지니어링 매니저
 
-It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
+회사에서는 기술 리드와 엔지니어링 매니저를 혼용해서 사용하는 경우가 매우 잦습니다. 비록 양 역할이 일부 겹치는 부분이 있으나, 그들의 초점은 다릅니다: 기술 리드는 *시스템*의 책임을 지며, 엔지니어링 매니저는 *사람*을 책임집니다.
 
-If the team is small and/or the leader has a lot of experience as Engineering Manager and Tech Lead, the same person might perform both roles. But as the system and team grow in size and complexity, there might be an opportunity to have different people for each role.
+만약 팀이 작거나(또는 작고) 리더가 엔지니어링 매니저와 기술 리드로서의 경력이 뛰어나다면, 한 사람이 양 역할을 다 해낼 수도 있습니다. 하지만 시스템과 팀이 크기와 복잡도에서 확장함에 따라, 각 역할을 다른 사람이 맡게 될 여지가 생기기도 합니다.
 
-The following is a non-exhaustive list that exemplifies some of the different responsibilities of each role:
+다음은 각 역할의 다른 역할들을 예시로 든 일부 내용입니다:
 
-| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
+| [기술 리드](TechLead.md) (System) | [엔지니어링 매니저](EngineeringManager.md) (People)|
 | :--- | :--- |
-| Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
-| Architecture and System Integration | Headcount Planning and Hiring |
-| Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
-| Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
-| Code Reviews and Feedback | One on Ones |
-| System Design Presentations​ | Participation in Technical Decisions |
-| Technical Capacity Planning​ | Cascading Communications​ |
-| Production Issues Escalation​ | Team Building Activities and Culture​ |
-| System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
-| Platform Direction, Patterns and Practices | Team Productivity and Metrics​ |
-| Alignment with other Tech Leads​ | Alignment with other Dev Managers​ |
-| Hands-On Coding 30% to 70% of the Time | Hands-On Coding 0% to 30% of the Time |
-| System Roadmap (shared)​ | System Roadmap (shared)​ |
-| Development Process (shared)​ | Development Process (shared)​ |
-| Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
-| Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
+| 기술적 뛰어남과 혁신 | 커리어 계획, 승진과 지도 |
+| 설계와 시스템 연동 | 헤드카운트 계획 및 채용 |
+| 테크 멘토링, 기술 채용 및 방향성 정렬 | 팀 계획 및 산출물 인도 |
+| 기술적 신속 대응 및 실험 | 목표, 성과 및 피드백 |
+| 코드 리뷰 및 피드백 | 1:1 면담 |
+| 시스템 설계 소개 | 기술적 판단에 참여 |
+| 기술적 역량 계획 | 계단식 커뮤니케이션 |
+| 프로덕션 이슈 확대 | 팀 빌딩 활동 및 문화 |
+| 시스템 SLA, 수치화 및 모니터링 | 팀 보호감 및 행복감 |
+| 플랫폼 감독, 패턴 및 관례 | 팀 생산성 및 수치화 |
+| 다른 기술 리드와의 방향성 정렬 | 다른 개발 관리자와의 방향성 정렬 |
+| 직접 코딩 30%~70% 정도 | 직접 코딩 0%~30% 정도 |
+| 시스템 로드맵 (공유) | 시스템 로드맵 (공유) |
+| 개발 프로세스 (공유)​ | 개발 프로세스 (공유) |
+| 팀 가시성 및 포상 (공유) | 팀 가시성 및 포상 (공유) |
+| 필요시 엔지니어링 매니저로서 행동할 수 있는 능력 | 필요시 기술 리드로서 활동할 수 있는 능력 |
 
-The last point on each role highlights the fact that the lists are not mutually exclusive, and therefore many of the points from one side are also important on the other side too. An Engineering Manager that can't understand the technical challenges that the team is facing won't be successful at the role, the same is true for a Tech Lead that doesn't understand the career paths of the engineers in the team. 
+각 역할의 마지막 포인트가 위 목록이 상호배타적이지 않음을 잘 나타내며, 따라서 한 쪽의 많은 포인트들이 다른 쪽에서도 마찬가지로 중요합니다. 기술적인 도전점을 이해하지 못하는 엔지니어링 매니저는 본인의 역할을 성공적으로 해낼 수 없을 것이며, 팀 엔지니어의 커리어 패스를 이해하지 못하는 기술 리드 역시 그와 마찬가지일 것입니다.
 
-Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overlap and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
-
+이렇게 이야기 했지만, 엔지니어링 매니저가 기술 리드로서 또는 그 반대로 행동할 수 있는 것 못지 않게 본인의 가장 중요한 일에 집중하고 잘 해내는 것 역시 매우 중요합니다. 상호간에 분명히 겹치는 부분과 협업의 기회가 많지만, 양 포지션이 서로 누가 무엇에 대한 책임자인지를 잘 이해해야만 분쟁이나 오해를 피할 수 있습니다.
 
 # 다른 페이지
 

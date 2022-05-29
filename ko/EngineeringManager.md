@@ -8,7 +8,7 @@
 |   6   |  시니어   | [EM6 - 엔지니어링 매니저 6](#em6---엔지니어링-매니저-6) |
 |   7   |  시니어   | [EM7 - 엔지니어링 매니저 7](#em7---엔지니어링-매니저-7) |
 
-If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
+다른 매니저를 직속 부하로 두고 있다면, [매니저 관리하기](Managing-Managers.md)에 "사람을 관리하는" 측면에 대해 더 많은 정보를 제공하므로 읽어보시기 바랍니다.
 
 ## EM5 - 엔지니어링 매니저 5
 
