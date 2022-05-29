@@ -22,13 +22,13 @@
 
 | 레벨 | 숙련도 | [개발자](Developer.md) | [기술 리드](TechLead.md) | [기술 프로그램 매니저](TechnicalProgramManager.md) | [엔지니어링 매니저](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | 주니어 | [D1](Developer.md#d1---developer-1) | | | |
-| 2 | 주니어 | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | 주니어 | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | 시니어 | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) | |
-| 5 | 시니어 | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | 시니어 | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | 시니어 | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | 주니어 | [D1](Developer.md#d1---개발자-1) | | | |
+| 2 | 주니어 | [D2](Developer.md#d2---개발자-2) | | | |
+| 3 | 주니어 | [D3](Developer.md#d3---개발자-3) | | | |
+| 4 | 시니어 | [D4](Developer.md#d4---개발자-4) | [TL4](TechLead.md#tl4---기술-리드-4) | [TPM4](TechnicalProgramManager.md#tpm4---기술-프로그램-매니저-4) | |
+| 5 | 시니어 | [D5](Developer.md#d5---개발자-5) | [TL5](TechLead.md#tl5---기술-리드-5) | [TPM5](TechnicalProgramManager.md#tpm5---기술-프로그램-매니저-5) | [EM5](EngineeringManager.md#em5---엔지니어링-매니저-5) |
+| 6 | 시니어 | [D6](Developer.md#d6---개발자-6) | [TL6](TechLead.md#tl6---기술-리드-6) | [TPM6](TechnicalProgramManager.md#tpm6---기술-프로그램-매니저-6) | [EM6](EngineeringManager.md#em6---엔지니어링-매니저-6) |
+| 7 | 시니어 | [D7](Developer.md#d7---개발자-7) | [TL7](TechLead.md#tl7---기술-리드-7) | [TPM7](TechnicalProgramManager.md#tpm7---기술-프로그램-매니저-7) | [EM7](EngineeringManager.md#em7---엔지니어링-매니저-7) |
 
 (포지션명을 클릭하여 세부 내용을 확인하세요)
 
