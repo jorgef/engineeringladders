@@ -30,11 +30,11 @@ The last point on each role highlights the fact that the lists are not mutually 
 Having said that, although it is important for an Engineering Manager to be able act as a Tech Lead and vice versa, it also critical for them to focus and excel at the right things. Although there is a clear overlap and an opportunity for collaboration, both positions must know well who is responsible for what to avoid conflicts and misunderstandings.
 
 
-# Other Pages
+# 다른 페이지
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**소개**](README.md)
+* [**개발자**](Developer.md)
+* [**기술 리드**](TechLead.md)
+* [**기술 프로그램 매니저**](TechnicalProgramManager.md)
+* [**엔지니어링 매니저**](EngineeringManager.md)
+* [**매니저 관리하기**](Managing-Managers.md)

@@ -1,60 +1,60 @@
-# Tech Lead
+# 기술 리드
 
-Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
+개발 리드로도 불리는 역할로, 시스템의 소유자이며 직접적인 개발, 설계적 지식 및 프로덕션 지원에 있어서 독특한 균형을 필요로 함.
 
-| Level | Seniority | Position |
+| 레벨 | 숙련도 | 포지션 |
 | :---: | :---: | :---: |
-| 4 | Senior | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
-| 5 | Senior | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
-| 6 | Senior | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
-| 7 | Senior | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
+| 4 | 시니어 | [TL4 - 기술 리드 4](#tl4---tech-lead-4) |
+| 5 | 시니어 | [TL5 - 기술 리드 5](#tl5---tech-lead-5) |
+| 6 | 시니어 | [TL6 - 기술 리드 6](#tl6---tech-lead-6) |
+| 7 | 시니어 | [TL7 - 기술 리드 7](#tl7---tech-lead-7) |
 
 
-## TL4 - Tech Lead 4
+## TL4 - 기술 리드 4
 
-![Tech Lead 4](../charts/techlead-4.png)
+![기술 리드 4](../charts/techlead-4.png)
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **특화**: 하나 또는 그 이상의 기술을 확실하게 책임지는 사람이며 새로운 것을 학습하는 주도권을 가진다
+* **소유**: 프로덕션 운영 방식에 대한 소유권을 가지며 시스템을 모니터링하며 SLA(서비스 수준 동의)를 인지하고 있다
+* **조정**: 팀 멤버들간의 조정에 나서며 효과적인 피드백을 제공하며 의견을 조율한다
+* **변경**: 피드백을 듣고 팀의 변화를 지도하면서 팀 프로세스를 변경한다
+* **하위 시스템**: 하나 또는 그 이상의 하위 시스템에 영향을 준다
 
-## TL5 - Tech Lead 5
+## TL5 - 기술 리드 5
 
-![Tech Lead 5](../charts/techlead-5.png)
+![기술 리드 5](../charts/techlead-5.png)
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **전도**: 연구하고, POC(개념 증명)를 제작하며 팀에 새로운 기술을 소개한다
+* **진화**: 미래 요구조건을 지원하기 위해 구조를 진화시키며 SLA를 규정한다
+* **조정**: 팀 멤버들간의 조정에 나서며 효과적인 피드백을 제공하며 의견을 조율한다
+* **정의**: 신속성과 절제의 균형을 맞추면서 팀의 숙련도에 따라 가장 적절한 프로세스를 
+* **팀**: 특정 일부가 아닌 전체 팀에 영향을 미친다
 
-## TL6 - Tech Lead 6
+## TL6 - 기술 리드 6
 
-![Tech Lead 6](../charts/techlead-6.png)
+![기술 리드 6](../charts/techlead-6.png)
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **숙달**: 시스템의 모든 기술 스택에 관해 매우 깊은 지식을 가지고 있다
+* **인도**: 시스템의 기술적 완성도를 이끌며 서비스 중단 사태에 대한 계획을 수립한다
+* **조정**: 팀 멤버들간의 조정에 나서며 효과적인 피드백을 제공하며 의견을 조율한다
+* **정의**: 신속성과 절제의 균형을 맞추면서 팀의 숙련도에 따라 가장 적절한 프로세스를 
+* **다수의 팀**: 본인의 팀 뿐만 아니라 다른 팀에도 영향을 미친다
 
-## TL7 - Tech Lead 7
+## TL7 - 기술 리드 7
 
-![Tech Lead 7](../charts/techlead-7.png)
+![기술 리드 7](../charts/techlead-7.png)
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **숙달**: 시스템의 모든 기술 스택에 관해 매우 깊은 지식을 가지고 있다
+* **인도**: 시스템의 기술적 완성도를 이끌며 서비스 중단 사태에 대한 계획을 수립한다
+* **조정**: 팀 멤버들간의 조정에 나서며 효과적인 피드백을 제공하며 의견을 조율한다
+* **정의**: 신속성과 절제의 균형을 맞추면서 팀의 숙련도에 따라 가장 적절한 프로세스를 
+* **회사**: 전체 기술 집단에게 영향을 미친다
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**소개**](README.md)
+* [**개발자**](Developer.md)
+* [**기술 프로그램 매니저**](TechnicalProgramManager.md)
+* [**엔지니어링 매니저**](EngineeringManager.md)
+* [**기술 리드 vs 엔지니어링 매니저**](TechLead-EngineeringManager.md)
+* [**매니저 관리하기**](Managing-Managers.md)

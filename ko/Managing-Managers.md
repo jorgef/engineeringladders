@@ -83,11 +83,11 @@ Managers should balance each area —delivery, goals, planning, oversight and re
 
 In summary, understanding how each manager is performing on every area is a good way to assess their performance and therefore a great opportunity to have meaningful career conversations with them.
 
-# Other Pages
+# 다른 페이지
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**소개**](README.md)
+* [**개발자**](Developer.md)
+* [**기술 리드**](TechLead.md)
+* [**기술 프로그램 매니저**](TechnicalProgramManager.md)
+* [**엔지니어링 매니저**](EngineeringManager.md)
+* [**기술 리드 vs 엔지니어링 매니저**](TechLead-EngineeringManager.md)

@@ -124,7 +124,7 @@
 
 * [How to Be Good at Performance Appraisals(업무 성과 평가 잘 하는 방법)](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote 는 직업별 책임과 (결과 및 행동에 대한)성과 측정 방법을 간단한 표현을 통해 설명하고 있습니다.
 
-# 다른 페이지들
+# 다른 페이지
 
 * [**개발자**](Developer.md)
 * [**기술 리드**](TechLead.md)
