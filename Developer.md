@@ -6,7 +6,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | :---: | :---: | :---: |
 | 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
 | 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) |
+| 3 | Mid | [D3 - Developer 3](#d3---developer-3) |
 | 4 | Senior | [D4 - Developer 4](#d4---developer-4) |
 | 5 | Senior | [D5 - Developer 5](#d5---developer-5) |
 | 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
@@ -28,8 +28,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+* **Supports**: learn quickly and starts to help other team members with their tasks by doing pair programming and understands the best way to solve a problem
+* **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## D3 - Developer 3
@@ -38,7 +38,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
+* **Supports**: proactively helps other team members with their tasks by doing pair programming, suggesting the best way to solve a problem
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
