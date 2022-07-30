@@ -5,7 +5,11 @@
 When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
-![Dashboard](/charts/dashboard.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/dashboard.png">
+  <img alt="Dashboard" src="/charts/dashboard.png">
+</picture>
 
 How do you assess the managing skills of other managers?
 Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.

@@ -12,7 +12,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL4 - Tech Lead 4
 
-![Tech Lead 4](/charts/techlead-4.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-4.png">
+  <img alt="Tech Lead 4" src="/charts/techlead-4.png">
+</picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -22,7 +26,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL5 - Tech Lead 5
 
-![Tech Lead 5](/charts/techlead-5.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-5.png">
+  <img alt="Tech Lead 5" src="/charts/techlead-5.png">
+</picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -32,7 +40,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL6 - Tech Lead 6
 
-![Tech Lead 6](/charts/techlead-6.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-6.png">
+  <img alt="Tech Lead 6" src="/charts/techlead-6.png">
+</picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -42,7 +54,11 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 ## TL7 - Tech Lead 7
 
-![Tech Lead 7](/charts/techlead-7.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-7.png">
+  <img alt="Tech Lead 7" src="/charts/techlead-7.png">
+</picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages

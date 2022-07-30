@@ -14,7 +14,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D1 - Developer 1
 
-![Developer 1](/charts/developer-1.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
+  <img alt="Developer 1" src="/charts/developer-1.png">
+</picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
@@ -24,7 +28,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D2 - Developer 2
 
-![Developer 2](/charts/developer-2.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
+  <img alt="Developer 2" src="/charts/developer-2.png">
+</picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -34,7 +42,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D3 - Developer 3
 
-![Developer 3](/charts/developer-3.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
+  <img alt="Developer 3" src="/charts/developer-3.png">
+</picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -44,7 +56,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D4 - Developer 4
 
-![Developer 4](/charts/developer-4.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
+  <img alt="Developer 4" src="/charts/developer-4.png">
+</picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -54,7 +70,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D5 - Developer 5
 
-![Developer 5](/charts/developer-5.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
+  <img alt="Developer 5" src="/charts/developer-5.png">
+</picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -64,7 +84,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D6 - Developer 6
 
-![Developer 6](/charts/developer-6.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-6.png">
+  <img alt="Developer 6" src="/charts/developer-6.png">
+</picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -74,7 +98,11 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## D7 - Developer 7
 
-![Developer 7](/charts/developer-7.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
+  <img alt="Developer 7" src="/charts/developer-7.png">
+</picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
