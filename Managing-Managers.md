@@ -81,7 +81,7 @@ Most managers will excel at building relationships with their direct reports (ma
 
 ## Conclusion
 
-Assessing managers require a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
+Assessing managers requires a slightly different perspective, their actions have a bigger impact on their teams and therefore they are in charge of keeping things balanced.
 
 Managers should balance each area —delivery, goals, planning, oversight and relationships— in a way that is sustainable over time. Not all areas might require to be balanced the same way; the seniority of the team, company culture, and business context might move the arrow closer to one side or the other, the green area is a range and not a single value. Having said that, it is important to avoid getting too close to any of the extremes.
 
