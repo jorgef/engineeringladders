@@ -1,6 +1,6 @@
 # Technical Program Manager
 
-Role responsible for coordinating and driving to completion initiatives that expand multiple teams.
+Role responsible for coordinating and driving to completion initiatives that span multiple teams.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
