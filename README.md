@@ -17,21 +17,21 @@ The framework relies heavily in radar charts to show visually the different pers
 The framework has 4 different ladders:
 
 - [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-- [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
+- [**Tech Specialist**](TechSpecialist.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 - [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that span multiple teams
 - [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
-If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
+If you are confused about the difference between a [Tech Specialist](TechSpecialist.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Specialist vs Engineering Manager](TechSpecialist-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Senior |      [Developer](Developer.md)      |       [Tech Lead](TechLead.md)       |        [Technical Program Manager](TechnicalProgramManager.md)        |       [Engineering Manager](EngineeringManager.md)       |
-| :---: | :----: | :---------------------------------: | :----------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------: |
-|   1   |   No   | [D1](Developer.md#d1---developer-1) |                                      |                                                                       |                                                          |
-|   2   |   No   | [D2](Developer.md#d2---developer-2) |                                      |                                                                       |                                                          |
-|   3   |   No   | [D3](Developer.md#d3---developer-3) |                                      |                                                                       |                                                          |
-|   4   |  Yes   | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) |                                                          |
-|   5   |  Yes   | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-|   6   |  Yes   | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-|   7   |  Yes   | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| Level | Senior |      [Developer](Developer.md)      |       [Tech Specialist](TechSpecialist.md)       |        [Technical Program Manager](TechnicalProgramManager.md)        |       [Engineering Manager](EngineeringManager.md)       |
+| :---: | :----: | :---------------------------------: | :----------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------: |
+|   1   |   No   | [D1](Developer.md#d1---developer-1) |                                                  |                                                                       |                                                          |
+|   2   |   No   | [D2](Developer.md#d2---developer-2) |                                                  |                                                                       |                                                          |
+|   3   |   No   | [D3](Developer.md#d3---developer-3) |                                                  |                                                                       |                                                          |
+|   4   |  Yes   | [D4](Developer.md#d4---developer-4) | [TL4](TechSpecialist.md#tl4---tech-specialist-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) |                                                          |
+|   5   |  Yes   | [D5](Developer.md#d5---developer-5) | [TL5](TechSpecialist.md#tl5---tech-specialist-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+|   6   |  Yes   | [D6](Developer.md#d6---developer-6) | [TL6](TechSpecialist.md#tl6---tech-specialist-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+|   7   |  Yes   | [D7](Developer.md#d7---developer-7) | [TL7](TechSpecialist.md#tl7---tech-specialist-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
@@ -40,9 +40,9 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 The chart shown above has the following 5 axes:
 
 - **Technology**: knowledge of the tech stack and tools
-- **System**: level of ownership of the system(s)
+- **System**: level of understanding and ownership of the system(s)
 - **People**: relationship with the team(s)
-- **Process**: level of engagement with the development process
+- **Process**: level of engagement with the processes
 - **Influence**: scope of influence of the position
 
 The **influence** axis can be seen as a _different dimension_ since it is orthogonal and applies to all the other axes.
@@ -52,6 +52,8 @@ Each axis has 5 different levels of performance. It is important to highlight th
 Keep reading to better understand each level.
 
 # Levels
+
+Levels ranges from 1 to 5, with 1 being the lowest and 5 the highest.
 
 ## Technology
 
@@ -132,8 +134,8 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 # Other Pages
 
 - [**Developer**](Developer.md)
-- [**Tech Lead**](TechLead.md)
+- [**Tech Specialist**](TechSpecialist.md)
 - [**Technical Program Manager**](TechnicalProgramManager.md)
 - [**Engineering Manager**](EngineeringManager.md)
-- [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+- [**Tech Specialist vs Engineering Manager**](TechSpecialist-EngineeringManager.md)
 - [**Managing Managers**](Managing-Managers.md)
