@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
+When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers.
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
 <picture>
@@ -15,19 +15,17 @@ How do you assess the managing skills of other managers?
 Managers face conflicting forces all the time, and a big part of their job is to keep things balanced.
 In order to set the right expectations and measure the manager's success, it is important to evaluate how balanced the following areas are:
 
-
 ## Delivery
 
 Managers constantly face push from the Business to deliver value quickly while feeling the pressure from the team to deliver high-quality solutions.
 
 ![Delivery](/charts/dashboard-delivery.png)
 
-| Business Impact | Technical Excellence |
-| :--- | :--- |
-| Speed | Quality |
+| Business Impact   | Technical Excellence |
+| :---------------- | :------------------- |
+| Speed             | Quality              |
 | Customer Feedback | Code Maintainability |
-| Opportunity Cost | Tech Debt Cost |
-
+| Opportunity Cost  | Tech Debt Cost       |
 
 ## Goals
 
@@ -35,12 +33,11 @@ Aligning the team's goals and the individual's goals is critical to ensure a sce
 
 ![Goals](/charts/dashboard-goals.png)
 
-| Team | Individuals |
-| :--- | :--- |
-| Business Needs | Career Focus |
-| Team Expectations | Personal Interests |
+| Team              | Individuals            |
+| :---------------- | :--------------------- |
+| Business Needs    | Career Focus           |
+| Team Expectations | Personal Interests     |
 | Group Performance | Individual Performance |
-
 
 ## Planning
 
@@ -48,12 +45,11 @@ Although short-term vs long-term planning is sometimes seen as a "business vs te
 
 ![Planning](/charts/dashboard-planning.png)
 
-| Short-Term | Long-Term |
-| :--- | :--- |
-| Weekly Plan | Quarterly Plan |
-| Spike | Well Thought Out Design |
-| Solve Quickly | Solve Properly |
-
+| Short-Term    | Long-Term               |
+| :------------ | :---------------------- |
+| Weekly Plan   | Quarterly Plan          |
+| Spike         | Well Thought Out Design |
+| Solve Quickly | Solve Properly          |
 
 ## Oversight
 
@@ -61,11 +57,11 @@ Managers usually have a hard time balancing how to delegate effectively without 
 
 ![Oversight](/charts/dashboard-oversight.png)
 
-| Control | Delegation |
-| :--- | :--- |
-| Micromanaging | Empowerment |
+| Control              | Delegation  |
+| :------------------- | :---------- |
+| Micromanaging        | Empowerment |
 | Connected to Details | Big Picture |
-| Auditing | Trust |
+| Auditing             | Trust       |
 
 ## Relationships
 
@@ -74,10 +70,10 @@ Most managers will excel at building relationships with their direct reports (ma
 ![Relationships](/charts/dashboard-relationships.png)
 
 | Vertical (Managing Down / Up) | Horizontal (Managing Across) |
-| :--- | :--- |
-| Supervisor(s) | Stakeholders |
-| Direct Reports | Peers / Other Teams |
-| Indirect Reports | Users |
+| :---------------------------- | :--------------------------- |
+| Supervisor(s)                 | Stakeholders                 |
+| Direct Reports                | Peers / Other Teams          |
+| Indirect Reports              | Users                        |
 
 ## Conclusion
 
@@ -89,9 +85,9 @@ In summary, understanding how each manager is performing on every area is a good
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+- [**Introduction**](README.md)
+- [**Developer**](Developer.md)
+- [**Tech Lead**](TechLead.md)
+- [**Technical Program Manager**](TechnicalProgramManager.md)
+- [**Engineering Manager**](EngineeringManager.md)
+- [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
